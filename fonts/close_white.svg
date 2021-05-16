@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="Ebene_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 40 40"
+   style="enable-background:new 0 0 40 40;"
+   xml:space="preserve"><metadata
+   id="metadata18"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs16" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#4A4A4A;}
+</style>
+
+
+<g
+   id="g3728"
+   transform="matrix(0.78646593,-0.78646593,0.78646593,0.78646593,-12.012221,20.120614)"><g
+     style="fill:#4a4a4a;fill-opacity:1;stroke:#fefefe;stroke-opacity:1"
+     transform="rotate(90,6,14.666667)"
+     id="Group">
+	<path
+   id="path6"
+   d="M 12.5,-8.6 V 10 c 0,0.3 -0.2,0.5 -0.5,0.5 -0.3,0 -0.5,-0.2 -0.5,-0.5 V -8.6 c 0,-0.3 0.2,-0.5 0.5,-0.5 0.3,0 0.5,0.2 0.5,0.5 z"
+   class="st1"
+   style="fill:#4a4a4a;fill-opacity:1;stroke:#fefefe;stroke-opacity:1" />
+</g><g
+     style="fill:#4a4a4a;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+     id="g11"
+     transform="translate(9.333333)">
+	<path
+   id="path9"
+   d="m 10.6,31.2 c -0.3,0 -0.5,-0.2 -0.5,-0.5 v -20 c 0,-0.3 0.2,-0.5 0.5,-0.5 0.3,0 0.5,0.2 0.5,0.5 v 20 c 0,0.2 -0.2,0.5 -0.5,0.5 z"
+   class="st1"
+   style="fill:#4a4a4a;fill-opacity:1;stroke:#ffffff;stroke-opacity:1" />
+</g></g>
+</svg>

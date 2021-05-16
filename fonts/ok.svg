@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ok copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ok-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(-0.750000, -0.750000)">
+            <circle id="Oval" fill="#FFFFFF" cx="19.75" cy="19.75" r="19"></circle>
+            <g id="Group" transform="translate(0.750000, 0.750000)" fill="#FFFFFF">
+                <circle id="Oval" cx="19" cy="19" r="19"></circle>
+            </g>
+            <path d="M19.75,39.5 C8.84237619,39.5 0,30.6576238 0,19.75 C0,8.84237619 8.84237619,0 19.75,0 C30.6576238,0 39.5,8.84237619 39.5,19.75 C39.5,30.6576238 30.6576238,39.5 19.75,39.5 Z M19.75,38 C29.8291967,38 38,29.8291967 38,19.75 C38,9.67080332 29.8291967,1.5 19.75,1.5 C9.67080332,1.5 1.5,9.67080332 1.5,19.75 C1.5,29.8291967 9.67080332,38 19.75,38 Z" id="Oval" fill="#1FCD93" fill-rule="nonzero"></path>
+            <polygon id="Path-3" fill="#1FCD93" fill-rule="nonzero" points="17.7064299 25.6742588 29.1351827 12.908633 30.2527454 13.9091596 17.7935701 27.8257412 10.7335063 21.1203686 11.7664937 20.0327396"></polygon>
+        </g>
+    </g>
+</svg>

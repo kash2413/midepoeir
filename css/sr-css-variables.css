@@ -1,0 +1,9 @@
+:root {
+    --ci-color-lighter: rgba(255,193,0,0.1);
+    --ci-color-primary: #ffc100;
+    --ci-color-secondary: #b57708;
+    --ci-color-background: #fff;
+    --font1: "Corporate S Bold";
+    --font2: "Corporate S";
+    --font3: "Corporate S Extra Bold";
+}
